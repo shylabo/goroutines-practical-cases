@@ -3,4 +3,5 @@ go 1.18
 use (
 	./parallel-processing
 	./producer-consumer-pattern
+	./synchronization
 )
