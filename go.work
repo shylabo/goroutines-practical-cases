@@ -1,6 +1,7 @@
 go 1.18
 
 use (
+	./fan-out-fan-in
 	./parallel-processing
 	./producer-consumer-pattern
 	./synchronization
