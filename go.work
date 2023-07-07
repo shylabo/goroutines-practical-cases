@@ -4,4 +4,5 @@ use (
 	./parallel-processing
 	./producer-consumer-pattern
 	./synchronization
+	./timeout-and-cancellation
 )
